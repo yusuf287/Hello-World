@@ -1,2 +1,3 @@
 # Hello-World
-Hello World : Mandatory thing to do when you are starting something in computer science world. 
+Hello World : Mandatory thing to do when you start learning something in computer science world. 
+Let's learn!!
